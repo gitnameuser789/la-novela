@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+}
+input{
+    border-color: rgb(38, 255, 0);
+    border-radius: 20px;
+    color: white;
+}
+h1{
+    color: rgb(38, 255, 0);
+    
+}
+
+@media(max-width:768px){
+    body{
+        overflow: hidden;
+    }
+    input{
+        font-size: 20px;
+    }
+    }
